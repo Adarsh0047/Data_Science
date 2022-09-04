@@ -7,11 +7,11 @@ A list of Data Science projects on select problem statements which has been deve
 * Cleaning the dataset (Filling missing values, dropping missing values, etc.).
 * Feature Engineering.
 * Visualizing the data.
-* Make analysis and gain insights from the visualized plots.
+* Get insights and inference from the results.
 
 
-| Number | Notebook | Project Name | Dataset Used |
+| Number | Notebook | Project Name | Data |
 | --------------- | --------------- | --------------- | --------------- |
-| 01  | [Project 1]() | Global Plastic Pollution Analysis | [Plastic Waste Generated Dataset](https://gist.githubusercontent.com/Adarsh0047/dd11552879bab96a3b255a2057f7670c/raw/bb4de333bc1e57afb7ccf7c7846fd7092603ad67/per-capita-plastic-waste-vs-gdp-per-capita.csv), [Plastic Waste Mismanaged Dataset](https://gist.githubusercontent.com/Adarsh0047/dd11552879bab96a3b255a2057f7670c/raw/bb4de333bc1e57afb7ccf7c7846fd7092603ad67/per-capita-mismanaged-plastic-waste-vs-gdp-per-capita.csv) |
+| 01  | [Project_1]() | Global Plastic Pollution Analysis | [Plastic Waste Generated Dataset](https://gist.githubusercontent.com/Adarsh0047/dd11552879bab96a3b255a2057f7670c/raw/bb4de333bc1e57afb7ccf7c7846fd7092603ad67/per-capita-plastic-waste-vs-gdp-per-capita.csv), [Plastic Waste Mismanaged Dataset](https://gist.githubusercontent.com/Adarsh0047/dd11552879bab96a3b255a2057f7670c/raw/bb4de333bc1e57afb7ccf7c7846fd7092603ad67/per-capita-mismanaged-plastic-waste-vs-gdp-per-capita.csv) |
 | Coming Soon! | Coming Soon! | Coming Soon! | Coming Soon! |
 | Coming Soon! | Coming Soon! | Coming Soon! | Coming Soon! |
