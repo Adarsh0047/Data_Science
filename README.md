@@ -1,4 +1,4 @@
-# Data_Science
+# Data Science
 A list of Data Science projects on select problem statements which has been developed by me since September 1, 2022.
 ## General Structure followed in the projects:
 * Import Libraries.
