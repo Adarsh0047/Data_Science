@@ -18,8 +18,8 @@ The goal of creating this repository is to have hands-on knowledge on:
 
 | Number | Notebook | Project Name | Data |
 | --------------- | --------------- | --------------- | --------------- |
-| 01  | [Project_1](https://github.com/Adarsh0047/Data_Science/blob/main/Project%201/Project%20%201.ipynb) | Global Plastic Pollution Analysis | [Plastic Waste Generated Dataset](https://gist.githubusercontent.com/Adarsh0047/dd11552879bab96a3b255a2057f7670c/raw/bb4de333bc1e57afb7ccf7c7846fd7092603ad67/per-capita-plastic-waste-vs-gdp-per-capita.csv), [Plastic Waste Mismanaged Dataset](https://gist.githubusercontent.com/Adarsh0047/dd11552879bab96a3b255a2057f7670c/raw/bb4de333bc1e57afb7ccf7c7846fd7092603ad67/per-capita-mismanaged-plastic-waste-vs-gdp-per-capita.csv) |
-| Coming Soon! | Coming Soon! | Coming Soon! | Coming Soon! |
+| 01  | [Project 1](https://github.com/Adarsh0047/Data_Science/blob/main/Project%201/Project%20%201.ipynb) | Global Plastic Pollution Analysis | [Plastic Waste Generated Dataset](https://gist.githubusercontent.com/Adarsh0047/dae979426be7ca74228d51b0a6829cf9/raw/172c6ca43ad250af57cc5ff1dacb8956b353eab0/per-capita-plastic-waste-vs-gdp-per-capita.csv),   [Plastic Waste Mismanaged Dataset](https://gist.githubusercontent.com/Adarsh0047/dae979426be7ca74228d51b0a6829cf9/raw/172c6ca43ad250af57cc5ff1dacb8956b353eab0/per-capita-mismanaged-plastic-waste-vs-gdp-per-capita.csv) |
+| 02 | [Project 2](https://github.com/Adarsh0047/Data_Science/blob/main/Project%202/Feature%20Engineering%20on%20Movies%20data.ipynb) | Feature Engineering on Movies Data | [movies](https://gist.githubusercontent.com/Adarsh0047/dae979426be7ca74228d51b0a6829cf9/raw/172c6ca43ad250af57cc5ff1dacb8956b353eab0/movies.csv),   [ratings](https://gist.githubusercontent.com/Adarsh0047/dae979426be7ca74228d51b0a6829cf9/raw/172c6ca43ad250af57cc5ff1dacb8956b353eab0/ratings.csv) |
 | Coming Soon! | Coming Soon! | Coming Soon! | Coming Soon! |
 | Coming Soon! | Coming Soon! | Coming Soon! | Coming Soon! |
 | Coming Soon! | Coming Soon! | Coming Soon! | Coming Soon! |
