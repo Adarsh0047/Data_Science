@@ -6,6 +6,7 @@ The goal of creating this repository is to have hands-on knowledge on:
 * Exploratory Data Analysis
 * Feature Engineering
 * Visualization of data
+
 ## General Structure of the projects:
 * Import libraries.
 * Load in the dataset.
