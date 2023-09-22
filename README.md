@@ -1,5 +1,5 @@
 # Data Science
-A list of 50 Data Science projects on select problem statements, which I have developed along with my friend kailas711 since September 1, 2022.
+A list of 50 Data Science projects on select problem statements, which I have developed since September 1, 2022.
 
 The goal of creating this repository is to have hands-on knowledge on:
 * Data Cleaning
